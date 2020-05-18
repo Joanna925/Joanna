@@ -1,10 +1,10 @@
-idiosyncracies
-proxtext
-json
-homebrew
-command prompt
-terminal prompt
-$ pwd
-$ ls
-$ dir
-$ cd subfolder
+idiosyncracies,
+proxtext,
+json,
+homebrew,
+command prompt,
+terminal prompt,
+$ pwd,
+$ ls,
+$ dir,
+$ cd subfolder,
